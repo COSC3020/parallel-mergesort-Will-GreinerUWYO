@@ -12,3 +12,8 @@ the function and run automatically when you commit through a GitHub action.
 
 What is the span of the parallel program, in terms of worst-case $\Theta$? Hint:
 It may help to consider the DAG of the parallel program.
+
+## Sources and Plagarism Statement
+Borrowed test code from KobeLimon21's repo.
+
+I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.
